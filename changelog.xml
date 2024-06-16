@@ -2,7 +2,7 @@
 <news>
 
  <conditional>
-  <if mod_loaded('SMXhud')>
+  <if cond="mod_loaded('SMXhud')">
    <entry>
     <date>2024-06-14 23:00:00Z</date>
     <title>Changelog</title>
