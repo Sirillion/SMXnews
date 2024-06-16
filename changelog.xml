@@ -4,7 +4,7 @@
   <entry>
     <date>2024-06-14 23:00:00Z</date>
     <title>Changelog</title>
-	<conditional evaluator="client"
+	<conditional evaluator="client">
 		<if mod_loaded('SMXhud')>
 	  		<text>SMXhud Changelog Test</text>
     			<link></link>
