@@ -11,7 +11,7 @@
    </entry>
   </if>
  </conditional>
-
+<!--
   <entry>
     <date>2024-06-14 23:00:00Z</date>
     <title>Changelog</title>
@@ -32,5 +32,5 @@
     <text>SMXmenu Changelog Test</text>
     <link></link>
   </entry>
-
+-->
 </news>
