@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <news>
 
+ <conditional>
+  <if mod_loaded('SMXhud')>
+   <entry>
+    <date>2024-06-14 23:00:00Z</date>
+    <title>Changelog</title>
+     <text>SMXhud Changelog Test</text>
+     <link></link>
+   </entry>
+  </if>
+ </conditional>
+
   <entry>
     <date>2024-06-14 23:00:00Z</date>
     <title>Changelog</title>
-	<conditional>
-		<if mod_loaded('SMXhud')>
-	  		<text>SMXhud Changelog Test</text>
-    			<link></link>
-		</if>
-	</conditional>
-	<text>SMXhud NOT Installed</text>
-	<link></link>
+    <text>SMXhud NOT Installed</text>
+    <link></link>
   </entry>
 
   <entry>
