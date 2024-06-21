@@ -3,54 +3,54 @@
 
   <entry>
     <date>2024-06-20 12:00:00Z</date>
-    <title>Optional SMX Modlets</title>
+    <title>SMXhudCPTHB (OPTIONAL)</title>
     <title2>vx.x.x.x</title2>
-    <text>SMXhudCPTHB - Target Health Bar for SMXhud.</text>
+    <text>Adds a Target Health Bar for SMXhud.</text>
     <link>https://github.com/Sirillion/ZMXhudCPTHB</link>
     <imagerelpath>smxhudcpthb.jpg</imagerelpath>
   </entry>
 
   <entry>
     <date>2024-06-20 12:00:00Z</date>
-    <title>Optional SMX Modlets</title>
+    <title>SMXhudCPBH1080 (OPTIONAL)</title>
     <title2>vx.x.x.x</title2>
-    <text>SMXhudCPBH1080 - Resize the Focus Block Bar for 1080p.</text>
+    <text>Resizes the Focus Block Bar for 1080p.</text>
     <link>https://github.com/Sirillion/ZMXhudCPBH1080</link>
     <imagerelpath>smxhudcpbh1080.jpg</imagerelpath>
   </entry>
 
   <entry>
     <date>2024-06-20 12:00:00Z</date>
-    <title>Optional SMX Modlets</title>
+    <title>SMXuiCPTFS (OPTIONAL)</title>
     <title2>vx.x.x.x</title2>
-    <text>SMXuiCPTFS - Adds a third forge slot.</text>
+    <text>Adds a third forge slot for SMXui.</text>
     <link>https://github.com/Sirillion/ZMXuiCPTFS</link>
     <imagerelpath>smxuicptfs.jpg</imagerelpath>
   </entry>
 
   <entry>
     <date>2024-06-20 12:00:00Z</date>
-    <title>Optional SMX Modlets</title>
+    <title>SMXuiCPSCBC (OPTIONAL)</title>
     <title2>vx.x.x.x</title2>
-    <text>SMXuiCPSCBC - Adds the broadcast button for SCore.</text>
+    <text>Adds the broadcast button for SCore.</text>
     <link>https://github.com/Sirillion/ZMXuiCPSCBC</link>
     <imagerelpath>smxuicpscbc.jpg</imagerelpath>
   </entry>
 
   <entry>
     <date>2024-06-20 12:00:00Z</date>
-    <title>Optional SMX Modlets</title>
+    <title>SMXuiCPBBM (OPTIONAL)</title>
     <title2>vx.x.x.x</title2>
-    <text>SMXuiCPBBM - A 100 slot, scrollable backpack.</text>
+    <text>A 100 slot, scrollable backpack for SMXui.</text>
     <link>https://github.com/Sirillion/ZMXuiCPBBM</link>
     <imagerelpath>smxuicpbbm.jpg</imagerelpath>
   </entry>
 
   <entry>
     <date>2024-06-20 12:00:00Z</date>
-    <title>Optional SMX Modlets</title>
+    <title>SMXuiCPBBMxxl (OPTIONAL)</title>
     <title2>vx.x.x.x</title2>
-    <text>SMXuiCPBBMxxl - A 120 slot, fixed backpack.</text>
+    <text>A 120 slot, fixed backpack for SMXui.</text>
     <link>https://github.com/Sirillion/ZMXuiCPBBMxxl</link>
     <imagerelpath>smxuicpbbmxxl.jpg</imagerelpath>
   </entry>
