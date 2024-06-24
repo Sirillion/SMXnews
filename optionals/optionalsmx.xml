@@ -2,54 +2,54 @@
 <news>
 
   <entry>
-    <date>2024-06-20 12:00:00Z</date>
+    <date>2024-06-24 22:50:00Z</date>
     <title>SMXhudCPTHB (OPTIONAL)</title>
-    <title2>vx.x.x.x</title2>
+    <title2>v1.0.309.0</title2>
     <text>Adds a Target Health Bar for SMXhud.</text>
     <link>https://github.com/Sirillion/ZMXhudCPTHB</link>
     <imagerelpath>smxhudcpthb.jpg</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-20 12:00:00Z</date>
+    <date>2024-06-24 22:50:00Z</date>
     <title>SMXhudCPBH1080 (OPTIONAL)</title>
-    <title2>vx.x.x.x</title2>
+    <title2>v1.0.309.0</title2>
     <text>Resizes the Focus Block Bar for 1080p.</text>
     <link>https://github.com/Sirillion/ZMXhudCPBH1080</link>
     <imagerelpath>smxhudcpbh1080.jpg</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-20 12:00:00Z</date>
+    <date>2024-06-24 22:50:00Z</date>
     <title>SMXuiCPTFS (OPTIONAL)</title>
-    <title2>vx.x.x.x</title2>
+    <title2>v1.0.309.0</title2>
     <text>Adds a third forge slot for SMXui.</text>
     <link>https://github.com/Sirillion/ZMXuiCPTFS</link>
     <imagerelpath>smxuicptfs.jpg</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-20 12:00:00Z</date>
+    <date>2024-06-24 22:50:00Z</date>
     <title>SMXuiCPSCBC (OPTIONAL)</title>
-    <title2>vx.x.x.x</title2>
+    <title2>v1.0.309.0</title2>
     <text>Adds the broadcast button for SCore.</text>
     <link>https://github.com/Sirillion/ZMXuiCPSCBC</link>
     <imagerelpath>smxuicpscbc.jpg</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-20 12:00:00Z</date>
+    <date>2024-06-24 22:50:00Z</date>
     <title>SMXuiCPBBM (OPTIONAL)</title>
-    <title2>vx.x.x.x</title2>
+    <title2>v1.0.309.0</title2>
     <text>A 100 slot, scrollable backpack for SMXui.</text>
     <link>https://github.com/Sirillion/ZMXuiCPBBM</link>
     <imagerelpath>smxuicpbbm.jpg</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-20 12:00:00Z</date>
+    <date>2024-06-24 22:50:00Z</date>
     <title>SMXuiCPBBMxxl (OPTIONAL)</title>
-    <title2>vx.x.x.x</title2>
+    <title2>v1.0.309.0</title2>
     <text>A 120 slot, fixed backpack for SMXui.</text>
     <link>https://github.com/Sirillion/ZMXuiCPBBMxxl</link>
     <imagerelpath>smxuicpbbmxxl.jpg</imagerelpath>
