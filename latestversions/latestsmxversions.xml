@@ -2,27 +2,30 @@
 <news>
 
   <entry>
-    <date>2024-07-25 21:18:00Z</date>
+    <date>2024-08-10 21:18:00Z</date>
     <title>Latest Version Available</title>
-    <title2>v1.0.333.0</title2>
+    <title2>v1.0.333.1</title2>
     <text>Click for the latest version of SMXcore.</text>
     <link>https://www.nexusmods.com/7daystodie/mods/22?tab=files</link>
+    <imagerelpath>smxcoreupdate.png</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-07-25 21:18:00Z</date>
+    <date>2024-08-10 21:18:00Z</date>
     <title>Latest Version Available</title>
-    <title2>v1.0.333.0</title2>
+    <title2>v1.0.333.1</title2>
     <text>Click for the latest version of SMXmenu.</text>
     <link>https://www.nexusmods.com/7daystodie/mods/22?tab=files</link>
+    <imagerelpath>smxmenuupdate.png</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-24 22:50:00Z</date>
+    <date>2024-08-10 21:18:00Z</date>
     <title>Latest Version Available</title>
     <title2>v1.0.333.0</title2>
     <text>Click for the latest version of SMXhud.</text>
     <link>https://www.nexusmods.com/7daystodie/mods/22?tab=files</link>
+    <imagerelpath>smxhudupdate.png</imagerelpath>
   </entry>
 
   <entry>
@@ -31,6 +34,7 @@
     <title2>v1.0.333.0</title2>
     <text>Click for the latest version of SMXui.</text>
     <link>https://www.nexusmods.com/7daystodie/mods/22?tab=files</link>
+    <imagerelpath>smxuiupdate.png</imagerelpath>
   </entry>
 
 </news>
