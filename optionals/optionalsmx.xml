@@ -3,24 +3,6 @@
 
   <entry>
     <date>2024-06-24 22:50:00Z</date>
-    <title>SMXhudCPTHB (OPTIONAL)</title>
-    <title2>v1.0.309.0</title2>
-    <text>Adds a Target Health Bar for SMXhud.</text>
-    <link>https://github.com/Sirillion/ZMXhudCPTHB</link>
-    <imagerelpath>smxhudcpthb.jpg</imagerelpath>
-  </entry>
-
-  <entry>
-    <date>2024-06-24 22:50:00Z</date>
-    <title>SMXhudCPBH1080 (OPTIONAL)</title>
-    <title2>v1.0.309.0</title2>
-    <text>Resizes the Focus Block Bar for 1080p.</text>
-    <link>https://github.com/Sirillion/ZMXhudCPBH1080</link>
-    <imagerelpath>smxhudcpbh1080.jpg</imagerelpath>
-  </entry>
-
-  <entry>
-    <date>2024-06-24 22:50:00Z</date>
     <title>SMXuiCPTFS (OPTIONAL)</title>
     <title2>v1.0.309.0</title2>
     <text>Adds a third forge slot for SMXui.</text>
