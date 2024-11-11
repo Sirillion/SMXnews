@@ -2,39 +2,21 @@
 <news>
 
   <entry>
-    <date>2024-06-24 22:50:00Z</date>
-    <title>SMXuiCPTFS (OPTIONAL)</title>
-    <title2>v1.0.309.0</title2>
-    <text>Adds a third forge slot for SMXui.</text>
-    <link>https://github.com/Sirillion/ZMXuiCPTFS</link>
-    <imagerelpath>smxuicptfs.jpg</imagerelpath>
+    <date>2024-11-11 12:00:00Z</date>
+    <title>Gears (OPTIONAL)</title>
+    <title2>v2.1.0</title2>
+    <text>Required for in-game options and SMX optionals.</text>
+    <link>https://www.nexusmods.com/7daystodie/mods/4017</link>
+    <imagerelpath>smxgears.jpg</imagerelpath>
   </entry>
 
   <entry>
-    <date>2024-06-24 22:50:00Z</date>
-    <title>SMXuiCPSCBC (OPTIONAL)</title>
-    <title2>v1.0.309.0</title2>
-    <text>Adds the broadcast button for SCore.</text>
-    <link>https://github.com/Sirillion/ZMXuiCPSCBC</link>
-    <imagerelpath>smxuicpscbc.jpg</imagerelpath>
-  </entry>
-
-  <entry>
-    <date>2024-06-24 22:50:00Z</date>
-    <title>SMXuiCPBBM (OPTIONAL)</title>
-    <title2>v1.0.309.0</title2>
-    <text>A 100 slot, scrollable backpack for SMXui.</text>
-    <link>https://github.com/Sirillion/ZMXuiCPBBM</link>
-    <imagerelpath>smxuicpbbm.jpg</imagerelpath>
-  </entry>
-
-  <entry>
-    <date>2024-06-24 22:50:00Z</date>
-    <title>SMXuiCPBBMxxl (OPTIONAL)</title>
-    <title2>v1.0.309.0</title2>
-    <text>A 120 slot, fixed backpack for SMXui.</text>
-    <link>https://github.com/Sirillion/ZMXuiCPBBMxxl</link>
-    <imagerelpath>smxuicpbbmxxl.jpg</imagerelpath>
+    <date>2024-11-11 12:00:00Z</date>
+    <title>0-SCore (OPTIONAL)</title>
+    <title2>v1.1.20.1108</title2>
+    <text>Required for broadcast crafting.</text>
+    <link>https://www.nexusmods.com/7daystodie/mods/6176</link>
+    <imagerelpath>smxscore.jpg</imagerelpath>
   </entry>
 
 </news>
